@@ -1,0 +1,8 @@
+{
+  "name": "Vườn Tinh Dầu - VSA LAB",
+  "description": "Thương hiệu tinh dầu thiên nhiên nguyên chất từ vùng đất Việt, đặc sản Tinh Dầu Cam Rừng Tây Giang bảo trợ bởi Trung tâm VSA LAB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
